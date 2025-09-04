@@ -70,6 +70,7 @@ Aquí te muestro algunas de las tecnologías y habilidades con las que trabajo:
 
 Aquí podrás encontrar una muestra de mis proyectos de análisis de datos y automatización.
 *   [Automatización OCR](https://github.com/betancurmor/viva-handling)
+*   [WebScraping](https://github.com/betancurmor/cemex-thd)
 
 ---
 
