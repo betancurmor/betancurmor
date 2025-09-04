@@ -18,9 +18,10 @@ Soy un Ingeniero en Sistemas Administrativos con una profunda especialización e
 Aquí te muestro algunas de las tecnologías y habilidades con las que trabajo:
 
 <p align="center">
-  <!-- LENGUAJES DE PROGRAMACIÓN -->
+  <!-- LENGUAJES DE PROGRAMACIÓN & HERRAMIENTAS CORE -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   <br>
   <!-- HERRAMIENTAS DE ANÁLISIS Y BI -->
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
@@ -30,6 +31,14 @@ Aquí te muestro algunas de las tecnologías y habilidades con las que trabajo:
   <img src="https://img.shields.io/badge/Power_Pivot-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Pivot Badge"/> 
   <img src="https://img.shields.io/badge/Power_Automate-0066B3?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate Badge"/>
   <img src="https://img.shields.io/badge/PAD-0066B3?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate Desktop Badge"/> 
+  <br>
+  <!-- HERRAMIENTAS DE DESARROLLO Y EDICIÓN -->
+  <img src="https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Lab Badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  <br>
+  <!-- LENGUAJES WEB -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   <br>
   <!-- HABILIDADES GENERALES -->
   <img src="https://img.shields.io/badge/Análisis_Descriptivo-blueviolet?style=for-the-badge" alt="Análisis Descriptivo Badge"/>
