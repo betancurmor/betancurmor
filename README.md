@@ -69,7 +69,7 @@ Aquí te muestro algunas de las tecnologías y habilidades con las que trabajo:
 ### 🌟 Mis Proyectos Recientes
 
 Aquí podrás encontrar una muestra de mis proyectos de análisis de datos y automatización.
-*   [Nombre del Proyecto 1](https://github.com/betancurmor/viva-handling)
+*   [Automatización OCR](https://github.com/betancurmor/viva-handling)
 
 ---
 
