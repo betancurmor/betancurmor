@@ -88,8 +88,8 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme
 
 <div align="center">
   <!-- ¡IMPORTANTE! Reemplaza 'bryan.betancur' con tu nombre de usuario exacto de GitHub. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bryan.betancur&show_icons=true&theme=transparent" alt="Bryan Betancur GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan.betancur&theme=transparent" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=betancurmor&show_icons=true&theme=transparent" alt="Bryan Betancur GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betancurmor&theme=transparent" alt="GitHub Streak"/>
 </div>
 
 ---
